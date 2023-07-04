@@ -1,0 +1,46 @@
+img{
+    width: 150px;
+    height: 120px;
+    padding: 5px;
+}
+
+h2{
+   color:rgb(0, 140, 255);
+   font-weight:bold;
+   font-size: 150%;
+   margin-left: 5px;
+}
+p{
+    font-size: 120%;
+    color: darkred;
+    margin-left: 5px;
+
+}
+ul{
+    color: purple;
+}
+h3{
+    margin-left: 5px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    margin-left: 5px;
+  }
+
+caption{
+    font-size: 100%;
+    background-color: violet;
+    padding: 20px;
+}
+
+th{
+    background-color: lightgrey;
+}
+
+.myDiv{
+    font-size: 100%;
+    color: navy;
+    margin-left: 5px;
